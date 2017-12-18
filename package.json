@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/woodw/snoopydroplink/issues"
   },
-  "homepage": "https://github.com/woodw/snoopydroplink#readme"
+  "homepage": "https://github.com/woodw/snoopydroplink#readme",
+  "engines": {
+    "node": "4.1.1"
+  }
 }
